@@ -15,7 +15,10 @@
    version="1.1"
    id="svg13771"
    inkscape:version="0.92.0 r15299"
-   sodipodi:docname="gesture.svg">
+   sodipodi:docname="gesture.svg"
+   inkscape:export-filename="F:\Dropbox\chi_course_2017\probabilisticfiltering\imgs\gesture.png"
+   inkscape:export-xdpi="100.03132"
+   inkscape:export-ydpi="100.03132">
   <defs
      id="defs13765">
     <marker
@@ -190,7 +193,7 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-height="1177"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />

@@ -16,7 +16,10 @@
    version="1.1"
    id="svg20613"
    inkscape:version="0.92.0 r15299"
-   sodipodi:docname="finger_track.svg">
+   sodipodi:docname="finger_track.svg"
+   inkscape:export-filename="F:\Dropbox\chi_course_2017\probabilisticfiltering\imgs\finger_track.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs20607">
     <linearGradient
@@ -132,9 +135,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="408.52324"
-     inkscape:cy="584.78536"
+     inkscape:zoom="0.7"
+     inkscape:cx="547.9639"
+     inkscape:cy="550.46981"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
